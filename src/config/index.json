@@ -1,5 +1,5 @@
 {
-  "BASE_URL": "https://shareme-backend.iran.liara.run/v1/",
-  "IMAGES_URL": "https://shareme-backend.iran.liara.run/",
-  "SOCKET": "https://shareme-backend.iran.liara.run"
+  "BASE_URL": "shareme-server-om0maxpgw-alimh17.vercel.app",
+  "IMAGES_URL": "shareme-server-om0maxpgw-alimh17.vercel.app",
+  "SOCKET": "shareme-server-om0maxpgw-alimh17.vercel.app"
 }
